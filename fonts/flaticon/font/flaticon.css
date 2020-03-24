@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 23/01/2019 09:05
+  	Creation date: 24/03/2020 12:08
   	*/
 
 @font-face {
@@ -30,11 +30,28 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-doctor:before { content: "\f100"; }
-.flaticon-stethoscope:before { content: "\f101"; }
-.flaticon-ambulance:before { content: "\f102"; }
-.flaticon-24-hours:before { content: "\f103"; }
-.flaticon-experiment-results:before { content: "\f104"; }
-.flaticon-heart-rate:before { content: "\f105"; }
-.flaticon-dropper:before { content: "\f106"; }
-.flaticon-first-aid-kit:before { content: "\f107"; }
+.flaticon-nurse:before { content: "\f100"; }
+.flaticon-doctor:before { content: "\f101"; }
+.flaticon-form:before { content: "\f102"; }
+.flaticon-newborn:before { content: "\f103"; }
+.flaticon-bed:before { content: "\f104"; }
+.flaticon-pulse:before { content: "\f105"; }
+.flaticon-x-rays:before { content: "\f106"; }
+.flaticon-clinic:before { content: "\f107"; }
+.flaticon-breath:before { content: "\f108"; }
+.flaticon-solidarity:before { content: "\f109"; }
+.flaticon-hospital-bed:before { content: "\f10a"; }
+.flaticon-medical-history:before { content: "\f10b"; }
+.flaticon-cardiogram:before { content: "\f10c"; }
+.flaticon-medical-history-1:before { content: "\f10d"; }
+.flaticon-television:before { content: "\f10e"; }
+.flaticon-microwave-oven:before { content: "\f10f"; }
+.flaticon-telephone:before { content: "\f110"; }
+.flaticon-music-speaker:before { content: "\f111"; }
+.flaticon-hospital:before { content: "\f112"; }
+.flaticon-hairdryer:before { content: "\f113"; }
+.flaticon-report:before { content: "\f114"; }
+.flaticon-medicine:before { content: "\f115"; }
+.flaticon-telephone-1:before { content: "\f116"; }
+.flaticon-cash-machine:before { content: "\f117"; }
+.flaticon-handshake:before { content: "\f118"; }
