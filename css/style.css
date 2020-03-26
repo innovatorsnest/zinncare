@@ -1006,7 +1006,20 @@ pre {
   .offset-md-11 {
     margin-left: 91.66667%; } }
 
+
+@media (max-width: 992px) {
+  .container{
+    display: none !important;
+  }
+
+  .header-navbar {
+    display: none !important;
+  }
+}
+
 @media (min-width: 992px) {
+ 
+
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
